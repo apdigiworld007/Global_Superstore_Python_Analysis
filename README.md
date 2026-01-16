@@ -26,10 +26,9 @@ GitHub
 
 📁 Project Structure
 Global_Superstore_Python_Analysis/
-│
+|── screenshots/
 ├── data/
 │   └── global_superstore_orders_usa.csv
-|── screenshots/
 ├── analysis.py
 └── README.md
 
