@@ -83,7 +83,9 @@ Cross-tool validation (SQL, Python, Power BI)
 
 It is suitable for Data Analyst / Business Analyst portfolios.
 
+
 🤵 Author 
 
 "Amir Payara"
-(Data Analyst/ Business Analytics)
+
+⭐⭐(Data Analyst/ Business Analytics)
