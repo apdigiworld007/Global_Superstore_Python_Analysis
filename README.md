@@ -33,35 +33,13 @@ Global_Superstore_Python_Analysis/
 └── README.md
 
 🔍 Key Business Questions Answered
-1️⃣ What are the total sales, total profit, and total orders?
 
-Calculated using aggregated sales, profit, and unique order counts.
-
-2️⃣ Who are the top 5 customers by sales?
-
-Customers ranked based on total sales from 2014–2017.
-
-Profit included for business context.
-
-3️⃣ How do monthly sales and profit trends change over time?
-
-Monthly trends analyzed for each year (2014–2017).
-
-Helps identify seasonality and performance patterns.
-
-4️⃣ Which product categories generate the most sales?
-
-Sales and profit aggregated by product category.
-
-5️⃣ Which states contribute the highest revenue?
-
-State-wise sales and profit analysis.
-
-Identifies top-performing U.S. states.
-
-6️⃣ Which products are loss-making?
-
-Products with negative total profit identified for cost and pricing review.
+1- Total Sales, Total Profit, Total Orders (2014–2017)
+2- Monthly Sales & Profit for year 2014 to 2017
+3- Product Categories — Which categories generate the most sales?(2014-2017)
+4- Which states contribute the highest revenue?(2014-2017 USA)
+5- Which products are loss-making? (Negative Profit)
+6- Top 5 Customers by Sales
 
 ✅ Data Validation
 
