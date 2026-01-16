@@ -35,11 +35,17 @@ Global_Superstore_Python_Analysis/
 🔍 Key Business Questions Answered
 
 1- Total Sales, Total Profit, Total Orders (2014–2017)
+
 2- Monthly Sales & Profit for year 2014 to 2017
+
 3- Product Categories — Which categories generate the most sales?(2014-2017)
+
 4- Which states contribute the highest revenue?(2014-2017 USA)
+
 5- Which products are loss-making? (Negative Profit)
+
 6- Top 5 Customers by Sales
+
 
 ✅ Data Validation
 
@@ -51,6 +57,7 @@ Power BI dashboard
 
 Minor rounding differences only (acceptable).
 
+
 📈 Key Insights
 
 Sales and profit show consistent growth trends across years.
@@ -60,6 +67,7 @@ A small number of customers contribute significantly to total revenue.
 Certain products consistently generate losses and require review.
 
 California and New York are among the top revenue-generating states.
+
 
 🎯 Conclusion
 
@@ -74,3 +82,7 @@ Business-oriented insights
 Cross-tool validation (SQL, Python, Power BI)
 
 It is suitable for Data Analyst / Business Analyst portfolios.
+
+🤵 Author 
+Amir Payara 
+Data Analyst/ Business Analytics 
